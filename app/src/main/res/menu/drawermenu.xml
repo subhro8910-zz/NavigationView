@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/dashboard" android:title="Dashboard" android:icon="@drawable/dash"/>
+    <item android:id="@+id/sal" android:title="Pay" android:icon="@drawable/money"/>
+    <item android:id="@+id/query" android:title="Query" android:icon="@drawable/question"/>
+    <item android:id="@+id/appr" android:title="Appraisal" android:icon="@drawable/appraise"/>
+    <item android:id="@+id/About" android:title="AboutUs" android:icon="@drawable/aboutuss"/>
+    <item android:id="@+id/msg" android:title="Message" android:icon="@drawable/messagesss"/>
+    <item android:id="@+id/log" android:title="Exit" android:icon="@drawable/ic_exit_to_app_black_24px"/>
+
+
+</menu>
